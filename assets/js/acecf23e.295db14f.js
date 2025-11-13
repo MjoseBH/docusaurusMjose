@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkdocusaurus_m_jose=globalThis.webpackChunkdocusaurus_m_jose||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
