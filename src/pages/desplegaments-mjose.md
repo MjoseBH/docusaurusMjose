@@ -18,7 +18,7 @@
     <th>Netlify</th>
   </tr>
   <tr>
-    <td><img src="../static/img/GitHub-Logo.png" alt="Logo Github" width="160" /></td>
+    <td><img src="./static/img/GitHub-Logo.png" alt="Logo Github" width="160" /></td>
     <td><img src="./img/vercel1868.jpg" alt="Logo Vercel" width="160" /></td>
     <td><img src="./img/netlify-logo-png_seeklogo-477949.png" alt="Logo Netlify" width="160" /></td>
   </tr>
