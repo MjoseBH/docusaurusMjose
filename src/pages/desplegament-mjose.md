@@ -12,9 +12,9 @@
 
 <table>
   <tr>
-    <td><img src="/img/github-logo.png" alt="Github Logo"></td>
-    <td><img src="/img/vercel-logo.png" alt="Vercel Logo"></td>
-    <td><img src="/img/netlify-logo.png" alt="Netlify Logo"></td>
+    <td><img src="../" alt="Github" /></td>
+    <td><img src="../../static/img/vercel1868.jpg" alt="Vercel" /></td>
+    <td><img src="/static/img/netlify-logo-png_seeklogo-477949.png" alt="Netlify" /></td>
   </tr>
 </table>
 
@@ -26,10 +26,10 @@
 
 **He desplegat** el projecte en tres plataformes:
 
-- *Github Pages* - [Enllaç](https://usuario.github.io/docusaurusmjose)  
-- *Vercel* - [Enllaç](https://vercel.com/mjose)  
-- *Netlify* - [Enllaç](https://mjose.netlify.app)  
+- *Github Pages* - [Enllaç](https://github.com/MjoseBH/docusaurusMjose)  
+- *Vercel* - [Enllaç](https://intermodular006-m-jose.vercel.app/)  
+- *Netlify* - [Enllaç](https://comforting-queijadas-7ee755.netlify.app/)  
 
 | Github | Vercel | Netlify |
 |--------|--------|---------|
-| ![Github Logo](/img/github-logo.png) | ![Vercel Logo](/img/vercel-logo.png) | ![Netlify Logo](/img/netlify-logo.png) |
+| ![Github Logo](/img/GitHub-Logo.png) | ![Vercel Logo](/img/vercel1868.jpg) | ![Netlify Logo](/img/netlify-logo-png_seeklogo-477949.png) |
